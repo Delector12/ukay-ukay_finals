@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28744296036",
+    "project_id": "ukay-ukay-47591",
+    "storage_bucket": "ukay-ukay-47591.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28744296036:android:cac746afc2cdd4b28ba171",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcV3i3syoBRgBGxecx-CNmuD5b3Jz-iT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28744296036:android:6e39d1bea19155768ba171",
+        "android_client_info": {
+          "package_name": "com.honey.ukayukayapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcV3i3syoBRgBGxecx-CNmuD5b3Jz-iT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
